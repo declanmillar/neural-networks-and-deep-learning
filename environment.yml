@@ -1,0 +1,10 @@
+name: nndl
+dependencies:
+  - python=3.9.1
+  - pip
+  - pip:
+      - numpy
+      - scikit-learn
+      - scipy
+      - theano
+      - matplotlib
